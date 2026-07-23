@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tfxmr1.privatetalks.online/sitemap.xml
